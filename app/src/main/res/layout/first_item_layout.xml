@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:paddingTop="@dimen/dp_100"
+        android:paddingLeft="@dimen/dp_78"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="left"
+        android:paddingBottom="@dimen/dp_27"
+        android:singleLine="true"
+        android:text="我的常用设备"
+        android:textColor="#85919A"
+        android:textSize="11sp" />
+
+</RelativeLayout>
